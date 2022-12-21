@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-Hello! I am **ValeraVV123**. I am 12 years old youtuber, programmist and gamer. 
-
 - 🔭 I’m currently working on my gdbot
 - 🌱 I’m currently learning c++ and c#
 - 👯 I’m looking to collaborate on -
@@ -18,5 +16,7 @@ Hello! I am **ValeraVV123**. I am 12 years old youtuber, programmist and gamer.
 -->
 
 My discord: ProG100_gd#6085
+
+Hello! I am **ValeraVV123**. I am 12 years old youtuber, programmist and gamer. 
 
 [![**ValeraVV123**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ValeraVV123&include_all_commits=true&hide=issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
