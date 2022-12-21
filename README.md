@@ -19,4 +19,4 @@ Hello! I am **ValeraVV123**. I am 12 years old youtuber, programmist and gamer.
 
 My discord: ProG100_gd#6085
 
-[![**ValeraVV123**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=figmentboy&include_all_commits=true&hide=issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![**ValeraVV123**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ValeraVV123&include_all_commits=true&hide=issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
