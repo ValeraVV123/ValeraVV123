@@ -10,7 +10,7 @@ My discord: ProG100_gd#6085
 
 Hello! I am **ValeraVV123**. I am 12 years old youtuber, programmist and gamer. 
 
-- 🔭 I’m currently working on my gdbot
+- 🔭 I’m currently working on my gdbot and my game
 - 🌱 I’m currently learning c++ and c#
 - 👯 I’m looking to collaborate on -
 - 🤔 I’m looking for help with -
