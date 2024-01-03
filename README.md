@@ -18,6 +18,6 @@ Hello! I am **ValeraVV123**. I am 13 years old youtuber, programmist and gamer.
 - 💬 Ask me about anything, my discord is above and below
 - 📫 How to reach me: Discord: prog100snw
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 1 Exabyte = 8e+18 bits
+- ⚡ Idk
 
 [![**ValeraVV123**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ValeraVV123&include_all_commits=true&hide=issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
