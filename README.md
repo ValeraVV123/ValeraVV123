@@ -14,7 +14,7 @@ Hello! I am **ValeraVV123**. I am 13 years old youtuber, programmist and gamer.
 
 - 🔭 I’m currently working on my gdbot and my game
 - 🌱 I’m currently learning c++ and c#
-- 🤔 I’m looking for help with rate my gdbot design
+- 🤔 Idk
 - 💬 Ask me about anything, my discord is above and below
 - 📫 How to reach me: Discord: prog100snw
 - 😄 Pronouns: He/him
