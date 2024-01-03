@@ -8,15 +8,15 @@
 Here are some ideas to get you started:
 -->
 
-My discord: ProG100_gd#6085
+My discord: prog100snw
 
-Hello! I am **ValeraVV123**. I am 12 years old youtuber, programmist and gamer. 
+Hello! I am **ValeraVV123**. I am 13 years old youtuber, programmist and gamer. 
 
 - 🔭 I’m currently working on my gdbot and my game
 - 🌱 I’m currently learning c++ and c#
 - 🤔 I’m looking for help with rate my gdbot design
 - 💬 Ask me about anything, my discord is above and below
-- 📫 How to reach me: Discord: ProG100_gd#6085, Telegram: https://t.me/ValerikVV100
+- 📫 How to reach me: Discord: prog100snw
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 1 Exabyte = 8e+18 bits
 
